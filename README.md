@@ -1,10 +1,10 @@
 # Satellite-Image-Classification
 ## About
 The project is to learn about various convolutional neural network architectures and to analyze and compare their relative performances on multi-class classification problem on dataset.Source for dataset - 
-`Satellite image Classification Dataset-RSI-CB256​`.\\
+`Satellite image Classification Dataset-RSI-CB256​`.  
 The following convolutional neural network architectures have been implemented
 1. LeNet
-2. AlexNet
+2. AlexNet  
 The following Convolutional neural networks have been implemented using transfer learning / pre-trained models
 1. VGG
 2. ResNet50
